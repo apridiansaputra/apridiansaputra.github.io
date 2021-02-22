@@ -19,6 +19,6 @@
         height: 350px;
 
     }
-    .fab{
-        color:#857b83;
-    }
+    a{
+        text-decoration:none;
+}
