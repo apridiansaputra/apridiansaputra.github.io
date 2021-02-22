@@ -1,0 +1,21 @@
+    main h1 {
+        color: black;
+    }
+
+    span {
+        color: red;
+    }
+
+    .grey {
+        background-color: #857b83;
+    }
+
+    .white {
+        background-color: #ebebebeb;
+    }
+
+    .row {
+        margin-bottom: -100px;
+        height: 350px;
+
+    }
